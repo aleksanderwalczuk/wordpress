@@ -1,2 +1,4 @@
-<?php
-//specified front page
+<?php //specified front page?>
+<?php get_header(); ?>
+<p>hello world</p>
+<?php get_footer();?>
