@@ -1,0 +1,2 @@
+<?php
+//specified front page
