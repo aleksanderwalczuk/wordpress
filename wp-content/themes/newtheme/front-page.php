@@ -1,9 +1,12 @@
 <?php //specified front page?>
 <?php get_header(); ?>
-<div class="container">
+<div class="container pt-5 pb-5">
     <div class="row">
-        <div class="col">Hello</div>
-        <div class="col">World</div>
+        <h1>Welcome to my website</h1>
+    </div>
+    <div class="row">
+        <div class="col"></div>
+        <div class="col">Hello World</div>
     </div>
 </div>
-<?php get_footer();?>
+<?php get_footer(); ?>
