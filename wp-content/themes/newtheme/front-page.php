@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 <div class="container pt-5 pb-5">
     <div class="row">
-        <h1>Welcome to my website</h1>
+        <h1><?php the_title() ?></h1>
     </div>
     <div class="row">
         <div class="col"></div>
